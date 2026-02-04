@@ -2,7 +2,7 @@
 
 ## Overview
 
-The AI-powered Kubernetes Debugging Agent is a distributed system that combines Kubernetes observability data with AI reasoning to provide intelligent debugging assistance to developers. The system ingests cluster data, applies AI analysis, and delivers actionable insights through multiple interfaces.
+This AI-powered Kubernetes Debugging Agent is a distributed system that combines Kubernetes observability data with AI reasoning to provide intelligent debugging assistance to developers. The system ingests cluster data, applies AI analysis, and delivers actionable insights through multiple interfaces.
 
 ## High-Level Architecture
 
